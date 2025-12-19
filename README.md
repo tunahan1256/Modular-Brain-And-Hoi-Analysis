@@ -31,16 +31,6 @@ We:
   - Variability and dependency characterization
 
 
-## 🎓 Internship Context
-
-This internship was completed in the research group of **Prof. Daniele Marinazzo** at **Ghent University**. It focused on the analysis of brain connectivity data using tools from information theory. Key goals included:
-
-- Investigating the modular structure of the brain
-- Characterizing brain dynamics through entropy and mutual information
-- Exploring synergy and redundancy using high-order interactions (HOIs)
-
-This research experience offered valuable insights into the complexity of brain organization and strengthened both analytical and computational skills in a neuroscience context.
-
 ## 📖 References
 
 ## References
