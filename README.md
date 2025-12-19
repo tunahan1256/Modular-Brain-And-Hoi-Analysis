@@ -1,7 +1,3 @@
-# From Cross-Modularity to High-Order Interactions: An Information-Theoretic Analysis of the Brain’s Modular Skeleton
-
-This project was built upon the guidance and article suggestions of Prof. Daniele Marinazzo and represents my own implementation and interpretation. It was undertaken out of a desire to understand how basic information-theoretic measures can be used to analyze brain connectivity. The project investigates the modular organization and high-order informational dependencies of the human brain using structural and functional connectivity data.
-
 ## 🧠 Project Overview
 
 The goal of this project is to reproduce and extend the findings of Diez et al. (2015) on modular brain organization and explore high-order interactions (HOIs) across brain modules using advanced information-theoretic measures. 
